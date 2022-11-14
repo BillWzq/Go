@@ -1,0 +1,2 @@
+# Go
+just for practic
